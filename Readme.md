@@ -10,13 +10,13 @@ These materials are based on the [package development workshop modules](https://
 
 Install the **devtools** package:
 
-`install.packages(devtools)`
+`install.packages("devtools")`
 
 If you already have **devtools** please reinstall to be sure you have the latest version (2.4.3) as [the package has frequent updates](https://github.com/r-lib/devtools/blob/main/NEWS.md).
 
 (for Day 2) Install the **assertthat** package:
 
-`install.packages(assertthat)`
+`install.packages("assertthat")`
 
 ### Windows users
 
